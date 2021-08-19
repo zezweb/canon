@@ -55,7 +55,7 @@ $(function(){
         centerMode: true,
         centerPadding: '60px',
         slidesToShow: 1,
-        // autoplay : true,
+        autoplay : true,
         autoplaySpeed : 1000,
         arrows : false, 
         responsive: [
